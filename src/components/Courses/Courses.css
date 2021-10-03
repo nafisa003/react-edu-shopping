@@ -1,0 +1,15 @@
+.course-detail{
+    box-shadow: 10px 10px 30px lightblue;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.enroll-btn{
+    border-radius: 30px;
+    background-color: lightseagreen;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+
+}
